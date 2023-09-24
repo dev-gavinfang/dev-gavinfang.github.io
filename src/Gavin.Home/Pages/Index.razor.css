@@ -1,0 +1,20 @@
+﻿.main {
+    text-align: center;
+    border: 2px green solid;
+    border-radius: 20px;
+    width: 300px;
+    margin: auto;
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%, -50%);
+}
+
+.footer {
+    text-align: center;
+    margin: auto;
+    position: absolute;
+    left: 50%;
+    bottom: 5px;
+    transform: translate(-50%, -50%);
+}
